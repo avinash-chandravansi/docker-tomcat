@@ -1,5 +1,4 @@
-# docker-tomcat-tutorial
-A basic tutorial on running a web app on Tomcat using Docker
+#Custom homepage on docker
 
 # Steps
 * Install [Docker](https://docs.docker.com/install/).
